@@ -108,7 +108,7 @@ AgenciaViaje/
 
 Proyecto realizado como práctica de programación en Java por los alumnos:
 ````
--Manchet Jesús.
+-Manuel Jesús.
 
 -Alejandro Dolset.
 
